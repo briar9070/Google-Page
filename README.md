@@ -1,1 +1,1 @@
-Test of first commit
+Test of second commit
